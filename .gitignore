@@ -1,0 +1,12 @@
+sites/default/files/js/
+sites/default/files/css/
+sites/default/files/styles/
+backup/
+.*
+!.htaccess
+!.gitignore
+sites/default/files/xmlsitemap/
+sites/default/local_settings.php
+cache/sites/default/local_settings.php
+sites/all/modules/ctools/page_manager/plugins/cache/
+sites/all/modules/ctools/plugins/cache/
